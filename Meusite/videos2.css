@@ -1,0 +1,58 @@
+
+#rag{
+    position: absolute;
+    left: 1000px;
+    top: 165px;
+}
+
+.tit{
+    
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    height: 90px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+#god{
+    position: absolute;
+    left: 1000px;
+    top: 370px;
+}
+
+#speed{
+    position: absolute;
+    left: 300px;
+    top: 370px;
+}
+.eld{
+    position: absolute;
+    left: 300px;
+    top: 165px;
+
+}
+
+#plague{
+    position: absolute;
+    left: 300px;
+    top: 425px;
+}
+
+#trailer{
+    position: absolute;
+    left: 300px;
+    top: 625px;
+}
+
+
+#sifu{
+    position: absolute;
+    left: 1000px;
+    top: 425px;
+}
+
+#gameplay{
+    position: absolute;
+    left: 1000px;
+    top: 625px;
+}

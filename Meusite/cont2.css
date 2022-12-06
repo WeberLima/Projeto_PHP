@@ -1,0 +1,137 @@
+
+
+
+.label{
+
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    padding: 8px 12px;
+    border-radius: 0;
+    line-height: 1.5;   
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+
+}
+
+.label-primary{
+    background-color: #ff5063;
+}
+
+
+
+.label:hover{
+    background-color: rgb(5, 18, 38);
+}
+
+
+.p1{
+    font-weight: 500;
+    color: #ffffff;
+    box-shadow: none;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 255px;
+    left: 200px;
+    bottom: 5;
+}
+
+
+
+#preview1{
+    z-index: 999;
+    position: absolute;
+    top: 250px;
+    left: 59px;
+}
+
+#preview2{
+   position: absolute;
+   left: 1050px;
+   top: 370px;
+   z-index: 999;
+}
+
+.p2{
+    font-weight: 500;
+    color: #ffffff;
+    box-shadow: none;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 375px;
+    left: 1150px;
+    bottom: 5;
+    font-style: bold;
+}
+
+
+
+#preview3{
+    position: absolute;
+    left: 1050px;
+    top: 590px;
+    z-index: 999;
+ }
+  
+ .p3{
+    font-weight: 500;
+    color: #ffffff;
+    box-shadow: none;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    position: absolute;
+    top: 580px;
+    left: 1150px;
+    bottom: 5;
+    font-style: bold;
+ }
+
+
+
+
+.ponto{
+    
+    margin-top: 50px;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+#award{
+    position: absolute;
+    top: 200px;
+
+    
+
+}
+
+.dir{
+    height: inherit;
+    width: 50%;
+    
+}
+
+.dedo{
+    width: inherit;
+    height: 50%;
+}
+
+#loud{
+    position: absolute;
+    left: 950px;
+    top: 200;
+ 
+    
+}
+
+#elden{
+    position: absolute;
+    left: 950px;
+    top: 440px;
+    
+}

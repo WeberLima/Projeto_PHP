@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+
+
+body{
+    height: 100%;
+    background-color: rgb(5, 18, 38);
+    width: 100%;
+    font-family: "Courier New", "Times New Roman", Times, serif;
+}
+
+#topo{
+    position: relative;
+    background-color:#151414;
+    height: 55px;
+    width: 100%;
+}
+
+#texto{
+
+  position: absolute;
+  color: #8a9091;  
+  margin-top: 1.1%;
+  margin-left: 15%;
+  padding-right: 15px;
+  font-size: 15px;
+
+ 
+}
+
+#portal{
+    position: absolute;
+    margin-top: 1.1%;
+    margin-left: 26.5%;
+
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
+
+.menu{
+    
+    width: 500px;
+    height: 50px;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.menu a{
+    color: rgb(251, 18, 18);
+    text-align: center;
+    text-decoration: none;
+    margin-right: 15px;
+    
+    
+    
+}
+
+#contato{
+    color: rgb(251, 18, 18);
+}
+
+#gamer{
+    background-color: #212128;
+    width: 100%;
+    height: 90px;
+
+}
+
+#logo{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+    position: absolute;
+    margin-top: 1.1%;
+    margin-left: 246px;
+
+}
+
+.submenu{
+    
+    text-transform: uppercase;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    
+    height: 90px;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.submenu a{
+    color: white;
+    text-decoration: none;
+    margin-right: 35px;
+    text-align: center;
+
+}
+
+
+.icones{
+    text-transform: uppercase;
+    font-family: "Ubuntu", Helvetica, Arial, sans-serif;
+    display: flex;
+    margin-left:1300px;
+    margin-top: -70px;
+
+
+}
+
+.icones a{
+    display: inline-flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+}
+
+#face{
+    width: 45px;
+    height: 45px;
+    background-color: #3b5999;
+}
+
+#twitter{
+    width: 45px;
+    height: 45px;
+    background-color: #00b6f1;;
+}
+
+#youtube{
+    width: 45px;
+    height: 45px;
+    background-color: #ee1c1b;
+}
+
+#instagram{
+    width: 45px;
+    height: 45px;
+    background-color: #cc2247;
+
+
+}
+
+#face:hover{
+    background-color: #ff5063;
+}
+
+#twitter:hover{
+    background-color: #ff5063;
+}
+
+#youtube:hover{
+    background-color: #ff5063;
+}
+
+#instagram:hover{
+    background-color: #ff5063;
+}
+
+.menu1:hover{
+    color: white;
+}
+
+.submenu1:hover{
+    color: #ff5063;
+
+}

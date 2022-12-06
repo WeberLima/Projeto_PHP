@@ -1,0 +1,67 @@
+.estrelas input[type=radio]{
+   
+	display: none;
+}.estrelas label i.fa:before{
+	content: '\f005';
+	color: #FC0;
+}.estrelas  input[type=radio]:checked  ~ label i.fa:before{
+	color: #CCC;
+}
+
+
+#avalie{
+    font-family: "Courier New", "Times New Roman", Times, serif;
+    color: white;
+    position: absolute;
+    left: 40%;
+}
+
+.estrelinha1{
+    position: absolute;
+    left: 46%;
+    top: 24%;
+}
+.estrelinha2{
+    position: absolute;
+    left: 48%;
+    top: 24%;
+}
+.estrelinha3{
+    position: absolute;
+    left: 50%;
+    top: 24%;
+}
+.estrelinha4{
+    position: absolute;
+    left: 52%;
+    top: 24%;
+}
+.estrelinha5{
+    position: absolute;
+    left: 54%;
+    top: 24%;
+}
+
+#botao{
+    position: absolute;
+    left: 45.5%;
+    top: 20%;
+    cursor: pointer;
+    width: 160px;
+    height: 50px;
+    margin-top: 4rem;
+    border: none;
+    border-radius: 32px;
+    background: #6C63FF;
+    color: white;
+    font-size: 1.1rem;
+    transition: all .3s;
+}
+
+img{
+    height: 350px;
+    position: absolute;
+    top: 300px;
+    right: 31%;
+    
+}
